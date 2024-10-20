@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 !pip install pandas numpy scikit-learn tensorflow keras yfinance statsmodels plotly gym
 
 import numpy as np
